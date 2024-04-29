@@ -8,7 +8,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-  <BrowserRouter basename="/project-01">
+  <BrowserRouter basename="/fs-93-react-node-Viktoriia3192">
     <Provider store={store}>
       <PersistGate persistor={persistor}>
         <App />
