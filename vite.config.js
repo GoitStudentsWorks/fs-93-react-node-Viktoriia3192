@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/assets',
     },
   },
-  base: '/project-01',
+  base: '/fs-93-react-node-Viktoriia3192',
 });
